@@ -4,7 +4,7 @@ My name is Yuri Kachanyuk
 
 🇺🇦 Ukraine
 
-- 💠 I’m working in the news portal tech lead development team
+- 💠 I’m working in the news portal, tech lead development team
 - ✨ The architecture of the teaser network was developed, which allows, based on the analysis of user preferences, to receive an increase in traffic by + 60%
 - 🌱 I’m learning about functional programming and predictive modeling problems
 
