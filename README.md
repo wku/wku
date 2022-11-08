@@ -24,13 +24,15 @@ Project development, business logic, project architecture, selection of a develo
 
 ## An experience
 
-> Building and configuring Blockchain, HyperLedger Iroha, Hyperledger Burrow, HyperLedger Fabric and HyperLedger Composer
-Implementation of an asset management system (PoC) on the blockchain using Hyperledger Fabric.
-Working with NFT contracts: ERC-721 and ERC-1155, metaverse nft, opensea.io, moonbeam.network
-Creation of smart contracts in Polygon, Ethereum, BSC (Binance smart chain), Solana (Solana SPL Token) - ERC-20, BEP-20, ERC-721 and ERC-1155
-IDE remix.ethereum.org, audited the security of smart contracts
-Working with Metamask API (cryptogamist), Uniswap, SushiSwap, Aave
-Ethereum blockchain testing tools (for example, Truffle, Embark, Hard Hat etc.)
+- News aggregator providing an information picture of Ukraine and the world. The news feed is formed from the materials of partner publications that publish news, analytical and entertainment content. The selection and distribution of materials is carried out using artificial intelligence. The adaptive algorithm provides the user with relevant content by tracking and analyzing preferences. Machine learning system - to create news categories. Person recognition. Creation of news clusters.
+- Teaser network - the innovativeness of the product lies in the fact that it uses the virality and clickbaitness of real headlines among articles and news of both partner sites and its own, built on an effective content recommendation system, the logic of which is based on the analysis of visitor.
+- Building and configuring Blockchain, HyperLedger Iroha, Hyperledger Burrow, HyperLedger Fabric and HyperLedger Composer
+- Implementation of an asset management system (PoC) on the blockchain using Hyperledger Fabric.
+- Working with NFT contracts: ERC-721 and ERC-1155, metaverse nft, opensea.io, moonbeam.network
+- Creation of smart contracts in Polygon, Ethereum, BSC (Binance smart chain), Solana (Solana SPL Token) - ERC-20, BEP-20, ERC-721 and ERC-1155
+- IDE remix.ethereum.org, audited the security of smart contracts
+- Working with Metamask API (cryptogamist), Uniswap, SushiSwap, Aave
+- Ethereum blockchain testing tools (for example, Truffle, Embark, Hard Hat etc.)
 
 
 ## Projects
