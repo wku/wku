@@ -47,6 +47,26 @@ Project development, business logic, project architecture, selection of a develo
 
 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/yuri-kachanyuk/) or via [Email](mailto:wku@ukr.net)
 
+
+<!-- Its main projects -->
+<p align="center">
+  <a href="https://github.com/SvitloLinux/svitlo">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SvitloLinux&repo=svitlo" />
+  </a>
+  <a href="https://github.com/SvitloLinux/util-version-check">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SvitloLinux&repo=util-version-check" />
+  </a>
+</p>
+ 
+
+
+
+
+
+
+
+
+
 <!--
 **mniverthi/mniverthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
