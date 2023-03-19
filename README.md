@@ -5,25 +5,27 @@ Yuri Kachanyuk
 🇺🇦 Ukraine
 
 - 💠 I’m working in the news portal, tech lead development team
-- ✨ The architecture of the teaser network was developed, which allows, based on the analysis of user preferences, to receive an increase in traffic by + 60%
+- ✨ The architecture of the teaser network was developed, which allows, based on the analysis of user preferences, to receive an increase in traffic by x2
 
 ## work experience
 
-- More than 8 years of commercial experience in IT area.
-Specialties: Project Manager, Software Architect, Team/Tech Lead
-Experience in project implementation : Ad Networks, News aggregator, Blockchain network, DeFi, Automated Market Maker (AMM), minting NFT, NFT marketplace, smart contracts.
-Project development, business logic, project architecture, selection of a development team and project implementation.
+- More than 8 years of commercial experience in IT
+- Specialties: Project Manager, Software Architect, Team Leader/Technical Lead
+- Project implementation experience: ad networks, news aggregator, DeFi, automated Market Maker (AMM), minting NFT, marketplace
+- Project development, business logic, project architecture, development team selection and project implementation
 
 
 ## Technical skills:
-- Python, Asyncio, Aiohttp, Django, Flask, marshmallow, etc
+
+- Python, Asyncio, Aiohttp, Django, Flask, etc
 - Javascript, Nodejs
 - Solidity, Smart contracts, EVM, ERC20, ERC-721
 - CI/CD, Docker, Docker Compose
+- linux server
 
 
 ## An experience
-
+**Development of architecture and business logic, as well as managing a team of developers in such projects**
 - News aggregator providing an information picture of Ukraine and the world. The news feed is formed from the materials of partner publications that publish news, analytical and entertainment content. The selection and distribution of materials is carried out using artificial intelligence. The adaptive algorithm provides the user with relevant content by tracking and analyzing preferences. Machine learning system - to create news categories. Person recognition. Creation of news clusters.
 - Teaser network - the innovativeness of the product lies in the fact that it uses the virality and clickbaitness of real headlines among articles and news of both partner sites and its own, built on an effective content recommendation system, the logic of which is based on the analysis of visitor.
 - Building and configuring Blockchain, HyperLedger Iroha, Hyperledger Burrow, HyperLedger Fabric and HyperLedger Composer
