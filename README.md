@@ -43,7 +43,7 @@ Yuri Kachanyuk
 - An online service for finding cryptocurrency exchanges, internet banking and money transfers with a unique cashback option and a two-level referral system and finding more favorable rates.
 - NFTs marketplace for physical goods
 - Development of crypto currency exchanger, crypto wallet API, connection of new currencies, integration of third-party exchanges, automation of operations, administrative part of API
-- Automated market maker uniswap v1 and v2
+- Automated market maker uniswap v1, v2 and v3
 
 
 
