@@ -1,82 +1,63 @@
+
 ### Hi there 👋🏽
 
-Yuri Kachanyuk
+**Yuri Kachanyuk**  
+🇺🇦 Ukraine  
 
-🇺🇦 Ukraine
+- 💠 **Tech Lead & Project Manager** at a news portal, driving development teams and project delivery  
+- ✨ Designed a teaser network architecture that leverages user preference analysis to double traffic  
 
-- 💠 I’m working in the news portal, tech lead development team
-- ✨ The architecture of the teaser network was developed, which allows, based on the analysis of user preferences, to receive an increase in traffic by x2
+---
 
-## work experience
+## About Me  
 
-- More than 8 years of commercial experience in IT
-- Specialties: Project Manager, Software Architect, Team Leader/Technical Lead
-- Project implementation experience: ad networks, news aggregator, DeFi, automated Market Maker (AMM), minting NFT, marketplace
-- Project development, business logic, project architecture, development team selection and project implementation
+- **8+ years** of commercial IT experience  
+- **Roles**: Project Manager, Software Architect, Technical Lead  
+- **Expertise**: Building projects from scratch—scoping, technical documentation, architecture design, team management, and delivery  
+- **Focus**: AI-driven solutions (LLM-based systems), news aggregators, and scalable applications  
 
+---
 
-## Technical skills:
+## Technical Skills  
 
-- Python, Asyncio, Aiohttp, Django, Flask, etc
-- Javascript, Nodejs
-- Solidity, Smart contracts, EVM, ERC20, ERC-721
-- CI/CD, Docker, Docker Compose
-- linux server
+- **Languages/Frameworks**: Python (Asyncio, Aiohttp, Django, Flask), JavaScript (Node.js)  
+- **DevOps**: CI/CD, Docker, Docker Compose, Linux servers  
+- **AI/LLM**: Integrating Large Language Models into development workflows  
+- **Blockchain (limited scope)**: Solidity, Smart Contracts (EVM, ERC-20/721)  
 
+---
 
-## An experience
-**Development of architecture and business logic, as well as managing a team of developers in such projects**
-- News aggregator providing an information picture of Ukraine and the world. The news feed is formed from the materials of partner publications that publish news, analytical and entertainment content. The selection and distribution of materials is carried out using artificial intelligence. The adaptive algorithm provides the user with relevant content by tracking and analyzing preferences. Machine learning system - to create news categories. Person recognition. Creation of news clusters.
-- Teaser network - the innovativeness of the product lies in the fact that it uses the virality and clickbaitness of real headlines among articles and news of both partner sites and its own, built on an effective content recommendation system, the logic of which is based on the analysis of visitor.
-- Building and configuring Blockchain, HyperLedger Iroha, Hyperledger Burrow, HyperLedger Fabric and HyperLedger Composer
-- Implementation of an asset management system (PoC) on the blockchain using Hyperledger Fabric.
-- Working with NFT contracts: ERC-721 and ERC-1155, metaverse nft, opensea.io, moonbeam.network
-- Creation of smart contracts in Polygon, Ethereum, BSC (Binance smart chain), Solana (Solana SPL Token) - ERC-20, BEP-20, ERC-721 and ERC-1155
-- IDE remix.ethereum.org, audited the security of smart contracts
-- Working with Metamask API (cryptogamist), Uniswap, SushiSwap, Aave
-- Ethereum blockchain testing tools (for example, Truffle, Embark, Hard Hat etc.)
+## Experience  
 
+- **Project Leadership**: Scoping, estimating, and managing end-to-end development of AI-powered projects  
+- **News Aggregator**: Built an AI-driven platform aggregating content from partner publications. Features adaptive algorithms for personalized feeds and ML-based news clustering  
+- **Teaser Network**: Developed a viral content recommendation system based on user behavior analysis  
+- **LLM Innovations**: Pioneered tools leveraging Large Language Models for code generation, analysis, and optimization  
+- **Blockchain**: Experience with NFT marketplaces, smart contracts (Ethereum, Polygon, BSC), and Hyperledger  
 
-## Projects
+---
 
-- Real estate investment management using the Ethereum and NFT blockchain
-- An online service for finding cryptocurrency exchanges, internet banking and money transfers with a unique cashback option and a two-level referral system and finding more favorable rates.
-- NFTs marketplace for physical goods
-- Development of crypto currency exchanger, crypto wallet API, connection of new currencies, integration of third-party exchanges, automation of operations, administrative part of API
-- Automated market maker uniswap v1, v2 and v3
+## Pet Projects  
 
+- **[CodeCraft Agents](https://github.com/wku/CodeCraftAgents)**: Multi-agent system transforming natural language tasks into production-ready code using specialized AI agents  
+- **[DirectoryX](https://github.com/wku/DirectoryX)**: Python tool for directory analysis and report generation, optimized for preparing codebases for LLM processing  
+- **[PromptFusion](https://github.com/wku/PromptFusion)**: Rapid codebase analysis tool using LLMs to help developers understand projects and resolve issues efficiently  
+- **[CodeFixer](https://github.com/wku/CodeFixer)**: Automated Python code repair tool powered by LLMs, fixing syntax, logic, and security issues  
 
+---
 
-📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/yuri-kachanyuk/) or via [Email](mailto:wku@ukr.net)
+## Contact Me  
 
+📫 Reach out on [LinkedIn](https://www.linkedin.com/in/yuri-kachanyuk/) or [Email](mailto:wku@ukr.net)  
 
-<!-- Its main projects -->
+---
+<!--
 <p align="center">
   <a href="https://github.com/SvitloLinux/svitlo">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SvitloLinux&repo=svitlo" />
   </a>
-  <a href="https://github.com/SvitloLinux/util-version-check">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SvitloLinux&repo=util-version-check" />
+  <a href="https://github.com/username/codecraft-agents">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=username&repo=codecraft-agents" />
   </a>
 </p>
- 
-
-
-
-
-
-
-
-
-
-<!--
-**mniverthi/mniverthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
