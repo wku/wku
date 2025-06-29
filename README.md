@@ -23,7 +23,7 @@
 - **Languages/Frameworks**: Python (Asyncio, Aiohttp, Django, Flask), JavaScript (Node.js)  
 - **DevOps**: CI/CD, Docker, Docker Compose, Linux servers  
 - **AI/LLM**: Integrating Large Language Models into development workflows  
-- **Blockchain **: Solidity, Smart Contracts (EVM, ERC-20/721)  
+- **Blockchain**: Solidity, Smart Contracts (EVM, ERC-20/721)  
 
 ---
 
