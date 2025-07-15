@@ -46,6 +46,9 @@
 
 ## Contact Me  
 
+#### wku@ukr.net
+#### https://t.me/trimbler
+
 📫 Reach out on [LinkedIn](https://www.linkedin.com/in/yuri-kachanyuk/) or [Email](mailto:wku@ukr.net)  
 
 ---
