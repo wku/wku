@@ -1,8 +1,6 @@
 
 ### Hi there 👋🏽
 
-**Yuri Kachanyuk**  
-🇺🇦 Ukraine  
 
 - 💠 **Tech Lead & Project Manager** at a news portal, driving development teams and project delivery  
 - ✨ Designed a teaser network architecture that leverages user preference analysis to double traffic  
